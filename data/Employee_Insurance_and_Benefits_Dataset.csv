@@ -1,0 +1,101 @@
+﻿Employee ID,Employee Name,Department,Office Location,Insurance Plan Tier,Annual Premium ($),Wellness Stipend Used ($),Dependent Coverage,Claim Count (YTD),Total Claim Amount ($),Last Review Date
+E001,Amit Sharma,Engineering,Noida,Gold,1200,450,Yes,2,850,15-11-2025
+E002,Priya Patel,Data Analytics,Noida,Platinum,1800,600,Yes,1,320,10-01-2026
+E003,John Doe,Underwriting,London,Silver,900,150,No,0,0,05-09-2025
+E004,Rajesh Kumar,Operations,Bengaluru,Gold,1200,300,Yes,4,2100,18-02-2026
+E005,Sneha Reddy,Engineering,Bengaluru,Bronze,600,0,No,1,150,22-08-2025
+E006,Michael Smith,Risk Consulting,New York,Platinum,2400,550,Yes,3,4500,01-03-2026
+E007,Ananya Das,HR,Noida,Silver,900,200,No,0,0,01-12-2025
+E008,Vikram Singh,Data Analytics,Bengaluru,Gold,1200,500,Yes,2,1250,25-01-2026
+E009,Sarah Jenkins,Underwriting,London,Gold,1500,350,No,1,400,14-10-2025
+E010,Arjun Mehta,Engineering,Noida,Platinum,1800,580,Yes,5,6200,12-04-2026
+E011,Emily Taylor,Risk Consulting,New York,Gold,1600,400,No,2,950,28-02-2026
+E012,Rohan Gupta,Operations,Noida,Bronze,600,100,No,0,0,19-07-2025
+E013,Kriti Verma,Data Analytics,Bengaluru,Platinum,1800,600,Yes,1,280,15-03-2026
+E014,David Miller,Engineering,London,Silver,1100,250,Yes,3,1750,30-11-2025
+E015,Meera Nair,HR,Bengaluru,Gold,1200,420,No,1,180,02-05-2026
+E016,Rohan Sharma,Engineering,Noida,Gold,1200,400,Yes,1,350,10-12-2025
+E017,Aisha Khan,Data Analytics,Bengaluru,Platinum,1800,550,Yes,2,1100,14-01-2026
+E018,Oliver Bennett,Underwriting,London,Silver,950,120,No,0,0,22-10-2025
+E019,Deepak Rao,Operations,Noida,Bronze,600,80,No,1,200,05-02-2026
+E020,Sana Iyer,Risk Consulting,New York,Gold,1650,480,Yes,3,2100,12-03-2026
+E021,Rahul Verma,Engineering,Bengaluru,Gold,1200,350,No,0,0,04-11-2025
+E022,Kavita Joshi,HR,Noida,Silver,900,180,Yes,1,450,20-01-2026
+E023,James Wilson,Underwriting,London,Platinum,2100,600,Yes,4,4800,02-04-2026
+E024,Divya Teja,Data Analytics,Noida,Gold,1200,290,No,2,900,18-09-2025
+E025,Siddharth Malhotra,Engineering,Noida,Platinum,1800,520,Yes,2,1400,27-02-2026
+E026,Emma Watson,Risk Consulting,New York,Silver,1100,150,No,0,0,15-08-2025
+E027,Pooja Hegde,Operations,Bengaluru,Gold,1200,410,Yes,3,1850,24-03-2026
+E028,Ryan Reynolds,Underwriting,London,Gold,1500,380,Yes,1,600,05-12-2025
+E029,Neha Gupta,HR,Bengaluru,Bronze,600,50,No,0,0,29-07-2025
+E030,Abhishek Mishra,Engineering,Noida,Silver,900,220,No,1,150,08-01-2026
+E031,Sophia Martinez,Risk Consulting,New York,Platinum,2400,590,Yes,5,7200,14-05-2026
+E032,Karan Johar,Operations,Noida,Gold,1200,320,Yes,2,800,19-10-2025
+E033,Aditi Rao,Data Analytics,Bengaluru,Silver,950,210,No,1,300,11-02-2026
+E034,William Davies,Underwriting,London,Bronze,700,0,No,0,0,01-09-2025
+E035,Varun Dhawan,Engineering,Bengaluru,Platinum,1800,600,Yes,3,3100,19-04-2026
+E036,Jessica Taylor,HR,New York,Gold,1600,430,Yes,1,250,25-11-2025
+E037,Manish Malhotra,Operations,Noida,Silver,900,190,No,2,750,30-01-2026
+E038,Shruti Haasan,Data Analytics,Noida,Gold,1200,460,Yes,1,400,18-12-2025
+E039,Thomas Müller,Risk Consulting,London,Platinum,2200,510,Yes,4,5200,22-03-2026
+E040,Riya Sen,Engineering,Bengaluru,Bronze,600,110,No,1,180,05-08-2025
+E041,Arjun Rampal,HR,Noida,Gold,1200,370,No,0,0,12-10-2025
+E042,Chloe Jones,Underwriting,London,Silver,950,240,Yes,2,920,14-02-2026
+E043,Vijay Kumar,Operations,Bengaluru,Platinum,1800,580,Yes,3,2900,05-04-2026
+E044,Kriti Sanon,Data Analytics,Noida,Silver,900,160,No,1,310,09-11-2025
+E045,Sanjay Dutt,Engineering,Noida,Gold,1200,420,Yes,2,1150,22-01-2026
+E046,Daniel Craig,Risk Consulting,New York,Platinum,2400,600,Yes,2,3800,18-03-2026
+E047,Shikha Pandey,HR,Bengaluru,Gold,1200,340,No,1,200,29-12-2025
+E048,Harry Potter,Underwriting,London,Gold,1500,400,Yes,1,850,20-02-2026
+E049,Ishaan Khatter,Operations,Noida,Bronze,600,90,No,0,0,15-07-2025
+E050,Tara Sutaria,Data Analytics,Bengaluru,Platinum,1800,570,Yes,3,2400,01-05-2026
+E051,Pranav Anand,Engineering,Noida,Gold,1200,440,Yes,1,500,20-11-2025
+E052,Meghna Reddy,Data Analytics,Noida,Platinum,1800,600,Yes,2,1420,25-01-2026
+E053,George Smith,Underwriting,London,Silver,900,130,No,0,0,12-09-2025
+E054,Sandip Patel,Operations,Bengaluru,Gold,1200,310,Yes,3,1950,24-02-2026
+E055,Anjali Desai,Engineering,Bengaluru,Bronze,600,0,No,1,120,29-08-2025
+E056,Robert Johnson,Risk Consulting,New York,Platinum,2400,540,Yes,4,4900,10-03-2026
+E057,Tanvi Shah,HR,Noida,Silver,900,210,No,0,0,08-12-2025
+E058,Rohan Bose,Data Analytics,Bengaluru,Gold,1200,490,Yes,2,1100,02-02-2026
+E059,Alice Williams,Underwriting,London,Gold,1500,320,No,1,450,21-10-2025
+E060,Gaurav Mehta,Engineering,Noida,Platinum,1800,590,Yes,5,6900,20-04-2026
+E061,Lily Brown,Risk Consulting,New York,Gold,1600,420,No,2,880,05-03-2026
+E062,Pratik Gupta,Operations,Noida,Bronze,600,120,No,0,0,26-07-2025
+E063,Nisha Verma,Data Analytics,Bengaluru,Platinum,1800,600,Yes,1,340,22-03-2026
+E064,Arthur Miller,Engineering,London,Silver,1100,220,Yes,3,1600,07-12-2025
+E065,Rani Nair,HR,Bengaluru,Gold,1200,400,No,1,150,10-05-2026
+E066,Akash Sharma,Engineering,Noida,Gold,1200,410,Yes,1,420,15-12-2025
+E067,Tina Khan,Data Analytics,Bengaluru,Platinum,1800,530,Yes,2,1250,22-01-2026
+E068,Charles Bennett,Underwriting,London,Silver,950,110,No,0,0,30-10-2025
+E069,Nitin Rao,Operations,Noida,Bronze,600,70,No,1,180,12-02-2026
+E070,Maya Iyer,Risk Consulting,New York,Gold,1650,460,Yes,3,2300,19-03-2026
+E071,Suresh Verma,Engineering,Bengaluru,Gold,1200,330,No,0,0,12-11-2025
+E072,Jyoti Joshi,HR,Noida,Silver,900,190,Yes,1,400,28-01-2026
+E073,Edward Wilson,Underwriting,London,Platinum,2100,600,Yes,4,5100,09-04-2026
+E074,Harini Teja,Data Analytics,Noida,Gold,1200,280,No,2,850,25-09-2025
+E075,Karthik Malhotra,Engineering,Noida,Platinum,1800,540,Yes,2,1350,05-03-2026
+E076,Mary Watson,Risk Consulting,New York,Silver,1100,140,No,0,0,22-08-2025
+E077,Swati Hegde,Operations,Bengaluru,Gold,1200,430,Yes,3,1750,01-04-2026
+E078,Jack Reynolds,Underwriting,London,Gold,1500,390,Yes,1,650,12-12-2025
+E079,Komal Gupta,HR,Bengaluru,Bronze,600,60,No,0,0,05-08-2025
+E080,Pankaj Mishra,Engineering,Noida,Silver,900,240,No,1,190,15-01-2026
+E081,Rose Martinez,Risk Consulting,New York,Platinum,2400,580,Yes,5,7500,22-05-2026
+E082,Sunil Johar,Operations,Noida,Gold,1200,340,Yes,2,850,26-10-2025
+E083,Divya Rao,Data Analytics,Bengaluru,Silver,950,230,No,1,320,18-02-2026
+E084,Fred Davies,Underwriting,London,Bronze,700,0,No,0,0,08-09-2025
+E085,Sameer Dhawan,Engineering,Bengaluru,Platinum,1800,600,Yes,3,3250,26-04-2026
+E086,Grace Taylor,HR,New York,Gold,1600,450,Yes,1,220,02-12-2025
+E087,Lalit Malhotra,Operations,Noida,Silver,900,170,No,2,700,06-02-2026
+E088,Neha Haasan,Data Analytics,Noida,Gold,1200,450,Yes,1,430,25-12-2025
+E089,Hans Müller,Risk Consulting,London,Platinum,2200,530,Yes,4,5400,29-03-2026
+E090,Priya Sen,Engineering,Bengaluru,Bronze,600,100,No,1,150,12-08-2025
+E091,Vijay Rampal,HR,Noida,Gold,1200,390,No,0,0,19-10-2025
+E092,Ruby Jones,Underwriting,London,Silver,950,220,Yes,2,880,21-02-2026
+E093,Ram Kumar,Operations,Bengaluru,Platinum,1800,590,Yes,3,2750,12-04-2026
+E094,Janvi Sanon,Data Analytics,Noida,Silver,900,150,No,1,290,16-11-2025
+E095,Prem Dutt,Engineering,Noida,Gold,1200,410,Yes,2,1200,29-01-2026
+E096,Gary Craig,Risk Consulting,New York,Platinum,2400,600,Yes,2,3650,25-03-2026
+E097,Kiran Pandey,HR,Bengaluru,Gold,1200,360,No,1,230,05-01-2026
+E098,James Potter,Underwriting,London,Gold,1500,410,Yes,1,900,27-02-2026
+E099,Kunal Khatter,Operations,Noida,Bronze,600,80,No,0,0,22-07-2025
+E100,Janya Sutaria,Data Analytics,Bengaluru,Platinum,1800,550,Yes,3,2600,08-05-2026

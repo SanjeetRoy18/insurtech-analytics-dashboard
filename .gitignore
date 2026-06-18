@@ -1,0 +1,15 @@
+# Python bytecode cache
+__pycache__/
+*.py[cod]
+
+# Operating System clutter
+.DS_Store
+Thumbs.db
+
+# Local VS Code settings
+.vscode/
+
+# Future proofing: ignore local logs/databases we might generate
+data/dashboard.db
+data/chat_history.csv
+.env

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Xceedance | Corporate Insurance & Claims Analytics</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/jpeg" href="xc_logo.jpg">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+    <header class="navbar">
+        <div class="logo">
+            <a href="index.html">
+                <img src="Black_xc_logo_full_1.png" alt="Xceedance Logo" class="nav-logo-img">
+            </a>
+            <span class="sub-logo">Analytics Portal</span>
+        </div>
+
+        <div class="status-indicator">
+            <span class="dot connected"></span> Live Server Connected
+        </div>
+    </header>
+
+    <main class="dashboard-container">
+        
+        <section class="intro-card">
+            <h1>Employee Benefits & Claims Metrics</h1>
+            <p>This automated interface processes structured workforce risk allocations, health premium distributions, and wellness operational expenditures.</p>
+        </section>
+
+        <section id="insights-container" class="insights-box">
+            <h3>Executive Summary & Diagnostic Insights</h3>
+            <ul id="insights-list">
+                <li class="loading-text">Analyzing dataset variations...</li>
+            </ul>
+        </section>
+
+        <section class="charts-grid">
+            
+            <div class="chart-card">
+                <h3>Average Claim Expenditure by Department</h3>
+                <div class="canvas-container">
+                    <canvas id="barChart"></canvas>
+                </div>
+            </div>
+
+            <div class="chart-card">
+                <h3>Insurance Plan Tier Distribution</h3>
+                <div class="canvas-container">
+                    <canvas id="pieChart"></canvas>
+                </div>
+            </div>
+
+            <div class="chart-card wide-card">
+                <h3>Wellness Stipend Utilization Frequencies</h3>
+                <div class="canvas-container">
+                    <canvas id="histogramChart"></canvas>
+                </div>
+            </div>
+
+            <div class="chart-card wide-card">
+                <h3>Risk Correlation: Premium vs. Claims</h3>
+                <div class="canvas-container">
+                    <canvas id="scatterChart"></canvas>
+                </div>
+            </div>
+
+        </section>
+    </main>
+
+    <script src="app.js"></script>
+
+    <div class="chatbot-container" id="chatbot">
+        <div class="chat-header" onclick="toggleChat()">
+            <span>InsurTech Assistant</span>
+            <span id="toggle-icon">▲</span>
+        </div>
+        <div class="chat-body" id="chat-body">
+            <div class="chat-message bot">Hello! Ask me basic queries about insurance concepts or dashboard metrics.</div>
+        </div>
+        <div class="chat-footer" id="chat-footer">
+            <input type="text" id="chat-input" placeholder="Type a message..." onkeypress="handleKeyPress(event)">
+            <button onclick="sendMessage()">Send</button>
+        </div>
+    </div>
+</body>
+</html>
