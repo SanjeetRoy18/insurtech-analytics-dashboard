@@ -16,8 +16,10 @@ The application is structured into three clean, independent architectural tiers:
 ## 📁 Repository Structure
 
 ```text
-Xceedance/
+insurtech-analytics-dashboard/
 ├── data/
+│   ├── knowledge_base/
+│   │   └── insurance_policies.txt  # Specified data regarding the company
 │   └── insurance_data.csv          # Local raw dataset storage
 ├── backend/
 │   ├── app.py                      # Flask API server with RAG/LLM endpoints
